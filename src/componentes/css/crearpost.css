@@ -1,0 +1,6 @@
+textarea{
+    resize: none;
+}
+#contenedor-crearPost{
+    border-radius: 20px;
+}
